@@ -54,6 +54,8 @@
                         </li>
                           <li><a href="hoadon.aspx">BILL</a>
                         </li>
+                         <li><a href="LoaiHang.aspx">Loai Hang</a>
+                        </li>
                         
                         <li><a href="contact.aspx">Contact</a>
                         </li>
